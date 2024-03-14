@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TheMexicanCreator/checkecomm.git/static/css/main.b574020c.css",
+    "main.js": "/TheMexicanCreator/checkecomm.git/static/js/main.aac524a6.js",
+    "static/js/453.13deeb64.chunk.js": "/TheMexicanCreator/checkecomm.git/static/js/453.13deeb64.chunk.js",
+    "static/media/charger.jpg": "/TheMexicanCreator/checkecomm.git/static/media/charger.ac1fd2d5ee511fa2fb4e.jpg",
+    "static/media/bottle.jpg": "/TheMexicanCreator/checkecomm.git/static/media/bottle.ec8d7ad168d71dfbcd3c.jpg",
+    "static/media/shirt.jpg": "/TheMexicanCreator/checkecomm.git/static/media/shirt.d851f5ab7dd512ac3c76.jpg",
+    "index.html": "/TheMexicanCreator/checkecomm.git/index.html",
+    "main.b574020c.css.map": "/TheMexicanCreator/checkecomm.git/static/css/main.b574020c.css.map",
+    "main.aac524a6.js.map": "/TheMexicanCreator/checkecomm.git/static/js/main.aac524a6.js.map",
+    "453.13deeb64.chunk.js.map": "/TheMexicanCreator/checkecomm.git/static/js/453.13deeb64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b574020c.css",
+    "static/js/main.aac524a6.js"
+  ]
+}
